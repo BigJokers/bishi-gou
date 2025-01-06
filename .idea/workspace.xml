@@ -4,7 +4,179 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c43abc5-bd31-41cf-b0fe-4cc53f909f63" name="Changes" comment="1" />
+    <list default="true" id="1c43abc5-bd31-41cf-b0fe-4cc53f909f63" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/constant/AutoFillConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/constant/AutoFillConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/constant/JwtClaimsConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/constant/JwtClaimsConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/constant/MessageConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/constant/MessageConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/constant/PasswordConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/constant/PasswordConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/constant/StatusConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/constant/StatusConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/context/BaseContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/context/BaseContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/enumeration/OperationType.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/enumeration/OperationType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/AccountLockedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/AccountLockedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/AccountNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/AccountNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/AddressBookBusinessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/AddressBookBusinessException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/BaseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/BaseException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/DeletionNotAllowedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/DeletionNotAllowedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/LoginFailedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/LoginFailedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/OrderBusinessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/OrderBusinessException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/PasswordEditFailedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/PasswordEditFailedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/PasswordErrorException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/PasswordErrorException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/SetmealEnableFailedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/SetmealEnableFailedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/ShoppingCartBusinessException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/ShoppingCartBusinessException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/UserNotLoginException.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/exception/UserNotLoginException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/json/JacksonObjectMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/json/JacksonObjectMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/properties/AliOssProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/properties/AliOssProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/properties/JwtProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/properties/JwtProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/properties/WeChatProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/properties/WeChatProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/result/PageResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/result/PageResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/result/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/result/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/utils/AliOssUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/utils/AliOssUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/utils/HttpClientUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/utils/HttpClientUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/utils/JwtUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/utils/JwtUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-common/target/classes/com/sky/utils/WeChatPayUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-common/target/classes/com/sky/utils/WeChatPayUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/CategoryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/CategoryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/CategoryPageQueryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/CategoryPageQueryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/DataOverViewQueryDTO$DataOverViewQueryDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/DataOverViewQueryDTO$DataOverViewQueryDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/DataOverViewQueryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/DataOverViewQueryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/DishDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/DishDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/DishPageQueryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/DishPageQueryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/EmployeeDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/EmployeeDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/EmployeeLoginDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/EmployeeLoginDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/EmployeePageQueryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/EmployeePageQueryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/GoodsSalesDTO$GoodsSalesDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/GoodsSalesDTO$GoodsSalesDTOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/GoodsSalesDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/GoodsSalesDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersCancelDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersCancelDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersConfirmDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersConfirmDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersPageQueryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersPageQueryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersPaymentDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersPaymentDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersRejectionDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersRejectionDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersSubmitDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/OrdersSubmitDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/PasswordEditDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/PasswordEditDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/SetmealDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/SetmealDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/SetmealPageQueryDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/SetmealPageQueryDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/ShoppingCartDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/ShoppingCartDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/UserLoginDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/dto/UserLoginDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/AddressBook$AddressBookBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/AddressBook$AddressBookBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/AddressBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/AddressBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Category$CategoryBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Category$CategoryBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Dish$DishBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Dish$DishBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Dish.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Dish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/DishFlavor$DishFlavorBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/DishFlavor$DishFlavorBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/DishFlavor.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/DishFlavor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Employee$EmployeeBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Employee$EmployeeBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/OrderDetail$OrderDetailBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/OrderDetail$OrderDetailBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/OrderDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/OrderDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Orders$OrdersBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Orders$OrdersBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Orders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Setmeal$SetmealBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Setmeal$SetmealBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Setmeal.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/Setmeal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/SetmealDish$SetmealDishBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/SetmealDish$SetmealDishBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/SetmealDish.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/SetmealDish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/ShoppingCart$ShoppingCartBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/ShoppingCart$ShoppingCartBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/ShoppingCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/User$UserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/BusinessDataVO$BusinessDataVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/BusinessDataVO$BusinessDataVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/BusinessDataVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/BusinessDataVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishItemVO$DishItemVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishItemVO$DishItemVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishItemVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishItemVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishOverViewVO$DishOverViewVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishOverViewVO$DishOverViewVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishOverViewVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishOverViewVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishVO$DishVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishVO$DishVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/DishVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/EmployeeLoginVO$EmployeeLoginVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/EmployeeLoginVO$EmployeeLoginVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/EmployeeLoginVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/EmployeeLoginVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderOverViewVO$OrderOverViewVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderOverViewVO$OrderOverViewVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderOverViewVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderOverViewVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderPaymentVO$OrderPaymentVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderPaymentVO$OrderPaymentVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderPaymentVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderPaymentVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderReportVO$OrderReportVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderReportVO$OrderReportVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderReportVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderReportVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderStatisticsVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderStatisticsVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderSubmitVO$OrderSubmitVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderSubmitVO$OrderSubmitVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderSubmitVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderSubmitVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/OrderVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SalesTop10ReportVO$SalesTop10ReportVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SalesTop10ReportVO$SalesTop10ReportVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SalesTop10ReportVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SalesTop10ReportVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SetmealOverViewVO$SetmealOverViewVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SetmealOverViewVO$SetmealOverViewVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SetmealOverViewVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SetmealOverViewVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SetmealVO$SetmealVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SetmealVO$SetmealVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SetmealVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/SetmealVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/TurnoverReportVO$TurnoverReportVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/TurnoverReportVO$TurnoverReportVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/TurnoverReportVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/TurnoverReportVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/UserLoginVO$UserLoginVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/UserLoginVO$UserLoginVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/UserLoginVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/UserLoginVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/UserReportVO$UserReportVOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/UserReportVO$UserReportVOBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/UserReportVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-pojo/target/classes/com/sky/vo/UserReportVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/SkyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/SkyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/annotation/AutoFill.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/annotation/AutoFill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/aspect/AutoFillAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/aspect/AutoFillAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/config/OssConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/config/OssConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/config/RedisConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/config/RedisConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/config/WebMvcConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/config/WebMvcConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/config/WebSocketConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/config/WebSocketConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/CommonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/CommonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/DishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/DishController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/ReportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/ReportController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/SetmealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/SetmealController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/WorkSpaceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/admin/WorkSpaceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/nofity/PayNotifyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/nofity/PayNotifyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/AddressBookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/AddressBookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/DishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/DishController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/SetmealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/SetmealController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/ShopController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/ShopController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/ShoppingCartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/ShoppingCartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/controller/user/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/handler/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/handler/GlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/interceptor/JwtTokenAdminInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/interceptor/JwtTokenAdminInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/interceptor/JwtTokenUserInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/interceptor/JwtTokenUserInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/AddressBookMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/AddressBookMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/CategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/CategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/DishFlavorMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/DishFlavorMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/DishMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/DishMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/EmployeeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/EmployeeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/OrderDetailMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/OrderDetailMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/OrderMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/OrderMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/SetmealDishMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/SetmealDishMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/SetmealMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/SetmealMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/ShoppingCartMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/ShoppingCartMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/AddressBookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/AddressBookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/DishService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/DishService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/ReportService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/ReportService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/SetmealService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/SetmealService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/ShoppingCartService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/ShoppingCartService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/WorkspaceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/WorkspaceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/AddressBookServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/AddressBookServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/DishServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/DishServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/EmployeeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/EmployeeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/ReportServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/ReportServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/SetmealServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/SetmealServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/ShoppingCartServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/ShoppingCartServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/WorkspaceServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/service/impl/WorkspaceServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/task/MyTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/task/MyTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/task/OrderTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/task/OrderTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/task/WebSocketTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/task/WebSocketTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sky-server/target/classes/com/sky/websocket/WebSocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/sky-server/target/classes/com/sky/websocket/WebSocketServer.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +196,10 @@
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_HOME" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2qnHKC5YQjlYA1QIA0KUWkivmo4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,11 +208,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.SkyApplication.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/bishe/houduan",
+    "last_opened_file_path": "D:/xczx/xuecheng-plus-project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,7 +252,8 @@
       <option name="presentableId" value="Default" />
       <updated>1733039236172</updated>
       <workItem from="1733039249431" duration="2164000" />
-      <workItem from="1735291354840" duration="304000" />
+      <workItem from="1735291354840" duration="1701000" />
+      <workItem from="1735293077603" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -85,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735291516408</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1735291893529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735291893529</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
